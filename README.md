@@ -7,4 +7,4 @@
 
 🎓 I am currently pursuing my Master's in Computer Engineering at San Jose State University and using my projects and research to dive deep into the self-driving car space. I graduated from UC Berkeley in 2015 with a focus on Mechatronics and Control systems. You can view more details on my portfolio: www.deepaktalwar.me 
 
-Here, you'll find some of my open-sourced projects. Feel free to shoot questions at deepaktalwardt@gmail.com. 
+📬 Here, you'll find some of my open-sourced projects. Feel free to shoot questions at deepaktalwardt@gmail.com. 
