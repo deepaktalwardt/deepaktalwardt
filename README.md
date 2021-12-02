@@ -10,3 +10,5 @@
 📬 Here, you'll find some of my open-sourced projects. Feel free to shoot questions at deepaktalwardt@gmail.com. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaktalwardt&show_icons=true&icon_color=335&title_color=333&text_color=777&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaktalwardt&show_icons=true&hide_border=true&theme=dark)
